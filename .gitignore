@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+################################################################################
+# Project specific stuff
+
+# Binary files and whatnot
+*tcz*
+*img
+*id_rsa
