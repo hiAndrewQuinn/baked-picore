@@ -180,3 +180,7 @@ cython_debug/
 *tcz*
 *img
 *id_rsa
+mnt_boot/
+mnt_root/
+.current_loop_dev
+
