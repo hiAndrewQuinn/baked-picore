@@ -183,4 +183,4 @@ cython_debug/
 mnt_boot/
 mnt_root/
 .current_loop_dev
-
+*zip
